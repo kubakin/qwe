@@ -1,19 +1,3 @@
-# app-v2
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h1>Vue Table(CRUD)</h1>
+<p>CRUD таблица на Vue</p>
+<img src='https://i.ibb.co/hYpq4cs/table.png'/>
